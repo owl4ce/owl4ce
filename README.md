@@ -1,3 +1,4 @@
+<!--
 <p align="center">
     <a target="_blank" href="#ǝɔϟlʍo">
         <img width="100%" src="https://github.com/owl4ce/owl4ce/blob/assets/cover.png">
@@ -19,4 +20,4 @@
         </a>
     </p>
 </details>
-
+-->
