@@ -77,7 +77,7 @@ QwwiK4s4ESesQYI1S8qzUq82MV2IbDnO5EkhIaGadUMbvqR1dsTbCKGsrQntOz4e
     <p align="center">
         <a href="#ǝɔϟlʍo" target="_blank">
             <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=owl4ce&hide_border=true&title_color=c9d1d9&text_color=c3c5cd"/>
-            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=owl4ce&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=c9d1d9&text_color=c3c5cd"/>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=owl4ce&show_icons=true&include_all_commits=true&count_private=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=c9d1d9&text_color=c3c5cd"/>
         </a>
     </p>
     <h2></h2>
